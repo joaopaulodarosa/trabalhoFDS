@@ -1,0 +1,40 @@
+.corpoBagual{
+    background-color: antiquewhite;
+}
+
+.tituloPincipal{
+    text-align: center;
+    color: rgb(29, 31, 180);
+}
+
+.paragrafo{
+    font-size: 23px;
+    text-align: justify;
+}
+.hobs{
+    font-size: larger;
+    margin-bottom: 10px;
+}
+
+.tabela{
+    text-align: center;
+    background-color: chartreuse;
+    color: rgb(22, 6, 6);
+    margin-bottom: 10px;
+    margin: 5px 10px;
+    font-size:larger;
+}
+.img1{
+border-radius: 25px;
+width: 320px;
+
+}
+
+.img2{
+    margin: 15px;
+
+}
+
+.link42:hover{
+      color: rgb(14, 194, 89);  
+}
